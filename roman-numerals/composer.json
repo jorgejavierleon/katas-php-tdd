@@ -1,0 +1,19 @@
+{
+    "name": "root/prime-factors",
+    "authors": [
+        {
+            "name": "Jorge Leon",
+            "email": "jorgejavierleon@gmail.com"
+        }
+    ],
+
+    "require": {
+        "phpspec/phpspec": "^2.4"
+    },
+
+    "autoload" : {
+        "psr-0": {
+            "": "src/"
+        }
+    }
+}
